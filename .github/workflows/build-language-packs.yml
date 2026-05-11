@@ -34,7 +34,7 @@ jobs:
       - name: Create latest release
         run: |
           gh release create latest \
-            --title "CRE8 Social Language Packs (latest)" \
+            --title "CRE8 Discuss Language Packs (latest)" \
             --notes "Automatically built from the latest translations on \`main\`.
 
           **Install:** Download the ZIP for your language and install via *Joomla → System → Install → Extensions*." \
