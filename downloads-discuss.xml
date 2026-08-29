@@ -28,16 +28,16 @@
     <code>zh-CN</code>
     <name>Chinese (Simplified)</name>
     <download>https://github.com/translation-creative-graphics/easydiscuss/releases/download/latest/com_easydiscuss_zh-CN.zip</download>
-    <size>87332</size>
-    <updated>2026-06-16 18:06:58</updated>
+    <size>91807</size>
+    <updated>2026-08-29 16:58:20</updated>
     <progress>78</progress>
   </language>
   <language>
     <code>zh-TW</code>
     <name>Chinese (Traditional)</name>
     <download>https://github.com/translation-creative-graphics/easydiscuss/releases/download/latest/com_easydiscuss_zh-TW.zip</download>
-    <size>59201</size>
-    <updated>2026-06-16 18:06:58</updated>
+    <size>63709</size>
+    <updated>2026-08-29 16:58:35</updated>
     <progress>56</progress>
   </language>
   <language>
@@ -236,32 +236,32 @@
     <code>th-TH</code>
     <name>Thai</name>
     <download>https://github.com/translation-creative-graphics/easydiscuss/releases/download/latest/com_easydiscuss_th-TH.zip</download>
-    <size>60112</size>
-    <updated>2026-06-16 18:06:58</updated>
+    <size>65108</size>
+    <updated>2026-08-29 16:57:18</updated>
     <progress>45</progress>
   </language>
   <language>
     <code>tr-TR</code>
     <name>Turkish</name>
     <download>https://github.com/translation-creative-graphics/easydiscuss/releases/download/latest/com_easydiscuss_tr-TR.zip</download>
-    <size>119047</size>
-    <updated>2026-06-16 18:06:58</updated>
+    <size>123433</size>
+    <updated>2026-08-29 16:57:32</updated>
     <progress>97</progress>
   </language>
   <language>
     <code>uk-UA</code>
     <name>Ukrainian</name>
     <download>https://github.com/translation-creative-graphics/easydiscuss/releases/download/latest/com_easydiscuss_uk-UA.zip</download>
-    <size>132993</size>
-    <updated>2026-06-16 18:06:58</updated>
+    <size>138397</size>
+    <updated>2026-08-29 16:57:48</updated>
     <progress>95</progress>
   </language>
   <language>
     <code>vi-VN</code>
     <name>Vietnamese</name>
     <download>https://github.com/translation-creative-graphics/easydiscuss/releases/download/latest/com_easydiscuss_vi-VN.zip</download>
-    <size>49517</size>
-    <updated>2026-06-16 18:06:58</updated>
+    <size>54226</size>
+    <updated>2026-08-29 16:58:01</updated>
     <progress>43</progress>
   </language>
 </languages>
